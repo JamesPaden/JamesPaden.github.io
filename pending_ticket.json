@@ -1,4 +1,7 @@
 {
-  "citation_status": "pending_payment",
-  "amount_in_dollars": 20
+  "citation_status": "late",
+  "ticket_amount_in_dollars": 20,
+  "late_fee_in_dollars": 20,
+  "total_due_in_dollars": 40,
+  "court_date", "2025-01-24"
 }
